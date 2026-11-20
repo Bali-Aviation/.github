@@ -1,10 +1,6 @@
-# 🌍 [Community or Project Name]
+# Bali Aviation Community
 
-[![License](https://shields.io)](LICENSE)
-[![Contributors](https://shields.io)](https://github.com)
-[![Discussions](https://shields.io)](https://github.com)
-
-> A short, one-sentence tagline explaining what your community builds, learns, or solves together.
+> Est 2022. We serve aviation community from tech and work from our community
 
 ---
 
